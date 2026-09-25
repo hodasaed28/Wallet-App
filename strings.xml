@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">محفظتي الذكية</string>
+    <string name="title_activity_main">محفظتي الذكية</string>
+    <string name="package_name">com.mywallet.app</string>
+    <string name="custom_url_scheme">com.mywallet.app</string>
+</resources>
